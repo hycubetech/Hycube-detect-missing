@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @author Hycube Team
+ * @copyright Copyright (c) 2017 Hycube (https://www.hycube.com)
+ * @package Hycube_Notfound
+ */
+-->
+<!--
+    Copyright (c) 2010 Hycube (http://www.hycube.com) 
+-->
+<config>
+    <modules>
+        <Hycube_Notfound>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Hycube_Notfound>
+    </modules>
+</config>

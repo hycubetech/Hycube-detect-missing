@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @author Hycube Team
+ * @copyright Copyright (c) 2017 Hycube (https://www.hycube.com)
+ * @package Hycube_Base
+ */
+-->
+<config>
+    <modules>
+        <Hycube_Base>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Hycube_Base>
+    </modules>
+</config>
